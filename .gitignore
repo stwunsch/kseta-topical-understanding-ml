@@ -3,3 +3,4 @@
 *.swp
 .ipy*
 *cache*
+py3_venv
