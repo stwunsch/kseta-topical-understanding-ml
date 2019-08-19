@@ -4,3 +4,4 @@
 .ipy*
 *cache*
 py3_venv
+*.h5
